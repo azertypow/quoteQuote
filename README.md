@@ -4,6 +4,6 @@ Ce projet propose de présenter la Collection Bodmer au travers d’un ouvrage u
 
 Loin d’être une sage réinterprétation graphique d’un récit maintes fois édité, *Ultimate Faust* cherche à transmettre les particularités des différents volumes qui le composent. Reprenant le texte de l’un, les illustrations d’un autre, la pagination d’un troisième ou les ornements d’un quatrième, il mêle tous ces éléments dans un objet complexe. Cet enchevêtrement de signes fait directement écho au Faust alchimiste de certaines versions du mythe. De support, le livre se transforme en objet intrigant, dont le texte n’est plus la seule raison d’être.
 
->## Participation avec le bodmerlab et la HEAD Genève
+>Participation avec le bodmerlab et la HEAD Genève
 >
 >Les contenus de chaques oeuvres proviennent des archives de [*La Fondation Bodmer.*](http://bodmerlab.unige.ch/)
