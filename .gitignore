@@ -1,2 +1,4 @@
 ci_*.*
 .idea
+/ci_info/*
+!/ci_info/README.md
