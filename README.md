@@ -1,5 +1,5 @@
 # Bodmer lab
 
-Generation de codex sur la base de la collection de *Faust* de la collection **Bodmer.**
+Generation de codex sur la base des archives de[*La Fondation Bodmer.*](http://bodmerlab.unige.ch/)
 
 > HEAD Genève
