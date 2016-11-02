@@ -1,0 +1,1 @@
+# Couverture extrait de l'ouvrage

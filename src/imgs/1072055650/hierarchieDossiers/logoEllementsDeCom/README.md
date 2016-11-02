@@ -1,0 +1,1 @@
+# Ellement graphique de communication extrait de l'ouvrage

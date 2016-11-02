@@ -1,0 +1,1 @@
+# Cul de lampe extrait de l'ouvrage
